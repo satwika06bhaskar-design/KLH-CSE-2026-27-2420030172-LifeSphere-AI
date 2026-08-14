@@ -1,17 +1,19 @@
-LifeSphere AI
+# LifeSphere AI
 
-AI-Powered Adaptive Personal Life Record and Digital Asset Management Platform
+## AI-Powered Adaptive Personal Life Record and Digital Asset Management Platform
 
-Team Members
-University ID       Name
-2420030172        Parvatha Reddy Satwika Reddy 
-2420030482        Alla Sai Harsha             
-2420090064        Laxman          
-2420090089        Guru
+## Team Members
 
-Supervisor G. Lavanya
+| University ID | Name                         |
+| ------------- | ---------------------------- |
+| 2420030172    | Parvatha Reddy Satwika Reddy |
+| 2420030482    | Alla Sai Harsha              |
+| 2420090064    | B.V. Laxmana                 |
+| 2420090089    | Beeram Guru Prasad Reddy     |
 
-Abstract
+**Supervisor:** G. Lavanya
+
+## Abstract
 
 LifeSphere AI is a web-based application designed to help users securely manage important personal documents, digital assets, subscriptions, warranties, and emergency information in one centralized platform.
 
@@ -21,10 +23,45 @@ The system integrates Artificial Intelligence to extract important information f
 
 The platform also provides adaptive features based on predefined rules, including dynamically prioritizing reminders, updating notifications according to urgency, identifying upcoming expirations, and providing temporary emergency access to authorized family members or nominees.
 
-The project uses React.js, Spring Boot, MySQL, Google Gemini API, Tesseract OCR, and JWT Authentication. The goal is to provide a secure, intelligent, and user-friendly solution that reduces manual effort and helps users efficiently manage their important personal records and digital assets.
+The project uses React.js, Spring Boot, MySQL, Google Gemini API, Tesseract OCR, JWT Authentication, Docker, Kubernetes (Minikube), Git & GitHub, and Postman. The goal is to provide a secure, intelligent, and user-friendly solution that reduces manual effort and helps users efficiently manage their important personal records and digital assets.
 
-Technology Stack Frontend: React.js Backend: Spring Boot Database: MySQL AI: Google Gemini API OCR: Tesseract OCR Authentication: JWT Project Overview
+## Proposed Technologies
 
-LifeSphere AI provides a centralized platform for:
+**React.js | Spring Boot | MySQL | Google Gemini API | Tesseract OCR | Docker | Kubernetes (Minikube) | JWT Authentication | Git & GitHub | Postman**
 
-Securely managing personal documents Organizing digital assets Managing subscriptions and warranties Tracking important expiry dates Receiving renewal and expiry reminders Extracting information from documents using OCR Generating AI-powered document summaries Answering user queries through an AI assistant Prioritizing reminders based on urgency Providing temporary emergency access to authorized family members or nominees
+## Setup and Execution Instructions
+
+### Prerequisites
+
+* Java JDK
+* Node.js and npm
+* MySQL
+* Docker Desktop
+* Kubernetes / Minikube
+* Git
+
+### Setup
+
+1. Clone the project repository.
+2. Configure the MySQL database.
+3. Configure the required backend environment variables.
+4. Configure the Google Gemini API key.
+5. Install the frontend dependencies.
+6. Build and run the Spring Boot backend.
+7. Start the React.js frontend.
+8. For containerized deployment, build the Docker images and deploy them using Kubernetes (Minikube).
+
+### Execution
+
+Run the backend and frontend applications and access the LifeSphere AI platform through the frontend application.
+
+## Current Phase Status
+
+**Current Phase: Project Planning and Initial Documentation**
+
+* Project title finalized.
+* Team members and supervisor finalized.
+* Project abstract completed.
+* Proposed technology stack identified.
+* README documentation initiated.
+* Implementation and deployment are **yet to be started**.

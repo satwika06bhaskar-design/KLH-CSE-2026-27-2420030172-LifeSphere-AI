@@ -1,0 +1,12 @@
+LifeSphere AI Test Document
+
+User Name: Satwika
+
+Insurance Policy:
+Policy Number: LS123456
+Policy Provider: LifeSecure Insurance
+Premium: 25000 INR
+Expiry Date: 15 March 2027
+
+Important:
+The user should renew the insurance policy before the expiry date.
